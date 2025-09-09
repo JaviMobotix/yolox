@@ -1,0 +1,1 @@
+OBJECT_DETECTOR_CLASSES = ('Person', 'Car', 'Bus', 'Truck', 'Motorcycle', 'Bicycle')
